@@ -22,7 +22,7 @@ einsteigen, sondern das vorher behandelte noch einmal anreißen, um das
 Fundament zu bilden, auf das man im Folgenden aufsetzt. Somit blieben
 für's erste nur noch zwei Publikationsmöglichketen.  
 Zum einen einen die lose Veröffentlichung im Internet oder aber die
-transportable ^[zumindest auf mobilen Geräten] Variante in Form eines
+transportable (zumindest auf mobilen Geräten) Variante in Form eines
 eBooks.  
 Dass wir beides miteinander verbinden können, stellte sich heraus, als
 es um die Analyse der Werkzeuge ging.
